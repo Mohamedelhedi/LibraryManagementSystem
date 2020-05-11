@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1588810561 source:c:\users\msi\desktop\librairy\person.cpp
+	"person.h"
+
+1588810561 c:\users\msi\desktop\librairy\person.h
+
+1589106441 source:c:\users\msi\desktop\librairy\library.cpp
+	"library.h"
+	"member.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1589093704 c:\users\msi\desktop\librairy\library.h
+
+1589093926 source:c:\users\msi\desktop\librairy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+	"library.h"
+
+1589107927 source:c:\users\msi\desktop\librairy\member.cpp
+	"member.h"
+	"library.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1589093704 c:\users\msi\desktop\librairy\member.h
+
