@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1589178997 source:c:\users\msi\desktop\version1 of lms\library\compte.cpp
+	"compte.h"
+	"library.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<conio.h>
+
+1589177080 c:\users\msi\desktop\version1 of lms\library\compte.h
+
+1589177510 source:c:\users\msi\desktop\version1 of lms\library\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+	"library.h"
+
+1589178872 c:\users\msi\desktop\version1 of lms\library\library.h
+
+1589178099 source:c:\users\msi\desktop\version1 of lms\library\library.cpp
+	"library.h"
+	"compte.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1589178997 source:c:\users\msi\desktop\version1 of lms\compte.cpp
+	"compte.h"
+	"library.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<cstring>
+	<conio.h>
+
+1589177080 c:\users\msi\desktop\version1 of lms\compte.h
+
+1589178872 c:\users\msi\desktop\version1 of lms\library.h
+
+1589178099 source:c:\users\msi\desktop\version1 of lms\library.cpp
+	"library.h"
+	"compte.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+
+1589177510 source:c:\users\msi\desktop\version1 of lms\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<conio.h>
+	"library.h"
+
